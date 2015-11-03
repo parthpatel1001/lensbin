@@ -1,0 +1,25 @@
+{
+  "name": "lensbin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "electron-prebuilt": "^0.34.2"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^0.34.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parthpatel1001/lensbin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parthpatel1001/lensbin/issues"
+  },
+  "homepage": "https://github.com/parthpatel1001/lensbin#readme"
+}
